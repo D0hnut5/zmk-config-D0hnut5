@@ -58,7 +58,7 @@
              };
             combo_boot {
                 timeout-ms = <50>;
-                key-positions = <0 10 21 30>;
+                key-positions = <0 9 20 29>;
                 layers = <0>;
                 bindings = <&bootloader>;
             };
