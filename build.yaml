@@ -1,4 +1,2 @@
 include:
-#  - board: le_jlwffre
-  - board: seeeduino_xiao_ble
-    shield: pandemonium
+  - board: le_jlwffre
